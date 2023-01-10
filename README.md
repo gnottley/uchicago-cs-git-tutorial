@@ -1,2 +1,2 @@
-George Nottley
+George Nottley gnottley
 # uchicago-cs-git-tutorial
